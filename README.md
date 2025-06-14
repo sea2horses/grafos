@@ -73,18 +73,6 @@ g.imprimir_grafo()
 print("BFS desde A:", g.bfs('A'))
 print("DFS desde A:", g.dfs('A'))
 ```
-
----
-
-## 👨‍💻 Colaboradores
-
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
-
-¡Gracias a todos por su esfuerzo y dedicación!
-
 ---
 
 ## 📚 Recursos útiles
